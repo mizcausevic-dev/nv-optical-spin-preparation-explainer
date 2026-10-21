@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/nv-optical-spin-preparation-explainer/
 
+Repository: https://github.com/mizcausevic-dev/nv-optical-spin-preparation-explainer
+
 ## What this is
 
 An interactive anatomy plate for NV Optical Spin Preparation. Play, scrub, or jump the five stages. The same frame always draws the same picture.
